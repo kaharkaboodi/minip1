@@ -1,0 +1,20 @@
+
+#demo {
+    background-color: antiquewhite;
+    color: black;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: inline;
+    padding: 10px;
+}
+
+.samt {
+
+    text-align: center;
+    background-color: rgb(54, 144, 156);
+    width: 240px;
+    border: 15px solid green;
+    padding: 20px;
+    align-content: center;
+    margin-left: 40%;
+}
